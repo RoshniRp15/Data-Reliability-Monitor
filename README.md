@@ -109,6 +109,22 @@ Visualization of findings
 
 Explanation of each check
 
+⭐ Project Highlights
+
+Built an automated Data Reliability Monitoring System using Python.
+
+Detects missing values, duplicate records, and statistical outliers using the IQR method.
+
+Generates a JSON-based Data Quality Report ready for downstream analytics tools.
+
+Includes visual insights using Matplotlib for missing values and outlier distribution.
+
+Designed using a production-style folder structure followed in real analytics workflows.
+
+Uses a real-world dataset to simulate practical data quality challenges.
+
+Jupyter notebook provides a clear, step-by-step walkthrough for recruiters and reviewers.
+
 🎯 Why This Project Matters
 
 This project demonstrates real skills required for Data Analyst & BI roles:
