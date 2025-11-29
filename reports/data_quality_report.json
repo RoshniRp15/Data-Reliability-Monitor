@@ -1,0 +1,17 @@
+{
+    "missing_values": {
+        "customer_id": 0,
+        "age": 1,
+        "order_amount": 0,
+        "order_count": 0,
+        "last_order_days_ago": 0
+    },
+    "duplicate_rows": 0,
+    "outliers_iqr": {
+        "customer_id": 0,
+        "age": 1,
+        "order_amount": 2,
+        "order_count": 1,
+        "last_order_days_ago": 1
+    }
+}
